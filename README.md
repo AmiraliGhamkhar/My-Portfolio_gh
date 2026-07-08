@@ -7,7 +7,7 @@
 
 Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
 
-> But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at hi@itsvijay.com. Let's chat over a virtual coffee! 😊 And if you're wondering why you should consider working together, check out projects like **PfpFinder** (https://pfpfinder.com) (where you can find the best pfps - almost 50k+!), **Alt Text Generator** (https://alttext.tech/) (just upload an image to see what it is!), **Discord Lookup API** (https://github.com/itsvijaysingh/Discord-Lookup-API), and more! Check out my complete profile here: https://github.com/itsvijaysingh
+> But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at hello@itsvijay.com. Let's chat over a virtual coffee! 😊 And if you're wondering why you should consider working together, check out projects like **PfpFinder** (https://pfpfinder.com) (where you can find the best pfps - almost 50k+!), **Alt Text Generator** (https://alttext.tech/) (just upload an image to see what it is!), **Discord Lookup API** (https://github.com/itsvijaysingh/Discord-Lookup-API), and more! Check out my complete profile here: https://github.com/itsvijaysingh
 
 ## **Portfolio Features:**
 
@@ -43,4 +43,4 @@ Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS,
 
 Feel free to connect with me or leave feedback. I'm always learning and improving! 
 
-> ~ [hi@itsvijay.com](mailto:hi@itsvijay.com)
+> ~ [hello@itsvijay.com](mailto:hello@itsvijay.com)

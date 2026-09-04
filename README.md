@@ -25,7 +25,8 @@ Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS,
 * Owl Carousel Library (for Testimonials)
 * jQuery (to support Owl Carousel)
 * AOS Library (for cool fade effects)
-* Fonts: Augustina, Rubik, Dancing Script
+* Fonts: Vazirmatn, Lalezar (Persian)
+* Fully Persian RTL layout
 * Bootstrap Icons
 
 ## **Want to see it live? 👀**

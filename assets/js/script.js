@@ -60,6 +60,8 @@ $(document).ready(function(){
         loop: true,
         autoplay: true,
         autoplayTimeout: 3000,
+        rtl: true,
+        rtlClass: 'owl-rtl',
         responsive:{
             0:{
                 items:1,

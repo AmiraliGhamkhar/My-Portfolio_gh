@@ -16,7 +16,8 @@
 
 /* Global Variables */
 :root{
-    --font-family: 'Rubik', sans-serif;
+    --font-family: 'Vazirmatn', 'Rubik', sans-serif;
+    --display-font: 'Lalezar', 'Vazirmatn', sans-serif;
     --primary-color: #415de6;
     --secondary-color: #e64157;
     --tertiary-color: #12c2e9;
@@ -132,7 +133,7 @@ a:hover{
 }
 
 .logo-name{
-    font-family: 'Agustina', 'Rubik', sans-serif;
+    font-family: var(--display-font);
     font-size: 1.2rem;
 }
 
@@ -231,7 +232,7 @@ a:hover{
 }
 
 .section-heading{
-    font-family: 'Dancing Script',var(--font-family);
+    font-family: var(--display-font);
     margin: 18px 0px;
 }
 
@@ -371,6 +372,7 @@ a:hover{
 }
 
 #hero .name {
+    font-family: var(--display-font);
     background: var(--primary-gradient-color);
     color: transparent;
     background-clip: text;
@@ -1047,4 +1049,57 @@ a:hover{
 #backToTopButton:hover{
     color: var(--primary-color);
     transform: translate(0, -0.25rem) rotate(0) skewX(0) skewY(0) scaleX(1) scaleY(1);
+}
+
+/*--------------------------------------------------------------
+# RTL Adjustments
+--------------------------------------------------------------*/
+
+body{
+    direction: rtl;
+    text-align: right;
+}
+
+/* Social icons spacing flips on RTL */
+[dir="rtl"] .social-icons a{
+    margin-right: 0;
+    margin-left: 3px;
+}
+
+/* Hero portrait already sits on the start column; mirror it in RTL */
+[dir="rtl"] .hero-portrait .pic{
+    right: auto;
+    left: 0;
+}
+
+/* Testimonial border / notch flips on RTL */
+[dir="rtl"] .testimonial .description{
+    border-left: 1px solid rgba(144, 81, 227, .5);
+    border-right: 3px solid rgba(144, 81, 227, .8);
+}
+
+[dir="rtl"] .testimonial .description::after{
+    left: auto;
+    right: 65px;
+    border-right: 1px solid rgba(144, 81, 227, .5);
+    border-left: none;
+    transform: skewY(45deg);
+    -webkit-transform: skewY(45deg);
+}
+
+/* Blog badge flips on RTL */
+[dir="rtl"] .article-card .badge{
+    margin: 10px 0px 0px 10px;
+}
+
+/* Project description padding flips on RTL */
+[dir="rtl"] .project-card .description-container{
+    padding-left: 0;
+    padding-right: inherit;
+}
+
+/* Back to top floats on the left in RTL */
+[dir="rtl"] #backToTopButton{
+    right: auto;
+    left: 10px;
 }

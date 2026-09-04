@@ -1,47 +1,35 @@
-# Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
+# نمونه‌کار وب توسعه‌دهنده - با HTML، CSS، Bootstrap و JS
 
-> See live demo: [https://itsvijay.com](https://itsvijay.com)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
+> نسخهٔ زنده: [https://github.com/AmiraliGhamkhar/My-Portfolio_gh](https://github.com/AmiraliGhamkhar/My-Portfolio_gh) | استفاده آزاد اما **قدردانی** و یک **⭐** به ریپو :)
 
-![Developer Portoflio](https://github.com/itsvijaysingh/My-Portfolio/blob/main/Developer%20Portolio%20Website.png)
+سلام! من **امیرعلی قمخار** هستم و این کد وب‌سایت نمونه‌کار من است که با HTML، CSS، Bootstrap و کمی جاوااسکریپت ساخته شده است. به ویژگی‌ها نگاهی بیندازیم:
 
+## **ویژگی‌های نمونه‌کار:**
 
-Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
+* **حالت تیره/روشن 🌙☀️:** به‌راحتی بین تم روشن و تیره جابه‌جا شوید. انتخاب شما حتی پس از بستن صفحه ذخیره می‌شود!
+* **کد تمیز 👍:** خوش‌فرمت و آسان برای دنبال‌کردن.
+* **نمایش واقعی 💻:** پروژه‌های واقعی من را ببینید!
+* **بهینه برای سرعت 🚀:** متادیتای سئو، پیش‌بارگذاری و defer دقیق برای تجربه‌ای سریع.
+* **نظرات ✅:** نظرات واقعی دوستان و توسعه‌دهندگان.
+* **سئو بهینه:** فقط محتوای `<head>` را جایگزین کنید.
+* **و بیشتر!** جزئیات را در پایین ببینید.
 
-> But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at hello@itsvijay.com. Let's chat over a virtual coffee! 😊 And if you're wondering why you should consider working together, check out projects like **PfpFinder** (https://pfpfinder.com) (where you can find the best pfps - almost 50k+!), **Alt Text Generator** (https://alttext.tech/) (just upload an image to see what it is!), **Discord Lookup API** (https://github.com/itsvijaysingh/Discord-Lookup-API), and more! Check out my complete profile here: https://github.com/itsvijaysingh
-
-## **Portfolio Features:**
-
-* **Light/Dark Modes Supported 🌙☀️:**  Switch effortlessly between light and dark themes. Your preference is saved, even after you close the page!
-* **Clean Code 👍:** Well-formatted and easy to follow. 
-* **Real-World Showcase 💻:** Check out my actual projects!
-* **Optimized for Speed 🚀:**  SEO metadata, prefetching, and deferring for a snappy experience.
-* **Testimonials ✅:** Genuine reviews from friends and developers.
-* **SEO Optimed** Just Replace The Content at <head>
-* **And More!** See the details below.
-  
-## **Technologies Used:**
+## **فناوری‌های استفاده‌شده:**
 
 * HTML, CSS, Bootstrap, JavaScript
-* Owl Carousel Library (for Testimonials)
-* jQuery (to support Owl Carousel)
-* AOS Library (for cool fade effects)
-* Fonts: Vazirmatn, Lalezar (Persian)
-* Fully Persian RTL layout
+* کتابخانه Owl Carousel (برای نظرات)
+* jQuery (برای پشتیبانی Owl Carousel)
+* کتابخانه AOS (برای افکت‌های محو)
+* فونت‌ها: Vazirmatn, Lalezar (فارسی)
+* چیدمان کاملاً فارسی و راست‌به‌چپ (RTL)
 * Bootstrap Icons
 
-## **Want to see it live? 👀**
+## **چرا این نمونه‌کار متمایز است**
 
-* Visit: [https://itsvijay.com/](https://itsvijay.com/)
-* Or, explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/itsvijaysingh/My-Portfolio/)
+* **تمرکز بر تجربه کاربری:** تم دوگانه و بهینه‌سازی سرعت نشان می‌دهد به تجربه‌ای عالی اهمیت می‌دهم.
+* **توجه به جزئیات:** انتخاب متفکرانه فونت و انیمیشن‌ها ظاهری حرفه‌ای می‌بخشد.
+* **پروژه‌های واقعی:** این فقط درباره مهارت فنی نیست، بلکه درباره چیزی است که می‌توانم بسازم!
 
-## **Why This Web Developer Portfolio Stands Out**
+## **تماس**
 
-* **User Experience Focus:**  The dual theme and speed optimizations show I care about delivering a great experience.
-* **Attention to Detail:** Thoughtful font selections and animations add a polished touch. 
-* **Real Projects:**  This isn't just about tech skills, it's about what I can build!  
-
-## **Contact**
-
-Feel free to connect with me or leave feedback. I'm always learning and improving! 
-
-> ~ [hello@itsvijay.com](mailto:hello@itsvijay.com)
+اگر ایده پروژه جالبی دارید یا به کاری نیاز دارید، با من در ارتباط باشید. همیشه در حال یادگیری و بهبود هستم!
